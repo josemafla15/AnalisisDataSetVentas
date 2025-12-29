@@ -1,0 +1,11 @@
+# Datasets
+*.csv
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
